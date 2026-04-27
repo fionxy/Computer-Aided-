@@ -1,4 +1,4 @@
-# Computer-Aided-
+# Computer-Aided
 # Netflix Userbase Analysis Project
 ## 📌 Project Overview
 This repository contains a comprehensive analysis of a simulated Netflix user database. The project explores subscriber demographics, revenue trends, and usage patterns across different countries, age groups, and devices between 2020 and 2024.
